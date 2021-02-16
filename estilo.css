@@ -10,6 +10,8 @@ h1{
 	line-height: 5;
 	line-height: 15;
     font-size: 37px;
+    letter-spacing: -0.033em;
+    font-weight: 700;
 }	
 #indice{
     position:absolute;
@@ -17,8 +19,9 @@ h1{
 	left:5%;
 	height:15%;
 	width:90%;	
-    line-height:10;
-    font-size: 30px;
+    line-height: 30;
+    font-size: 38px;
+    line-height: 20px;
 }
 #contenido{
 	position:absolute;
@@ -26,8 +29,9 @@ h1{
 	left:3%;
 	height:10%;
 	width:95%;
-    line-height:30;
     font-size: 41px;
+    line-height: 55;
+    font-weight: 700;
 }
 #piedepagina{
 	position:absolute;
@@ -36,5 +40,6 @@ h1{
 	height:11%;
 	width:93%;
 	font-size: 41px;
-	line-height:25;
+	line-height: 100;
+	font-weight: 600;
 }	
